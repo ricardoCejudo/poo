@@ -1,6 +1,6 @@
 # Ejercicio 7 — Manejo de Excepciones
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -28,9 +28,3 @@ Ejercicio completo de manejo de errores en Python dividido en 5 partes. Se apren
 ## Archivos
 
 - `excepciones.py` — las 5 partes en un solo archivo
-
-## Como correr
-
-```bash
-python excepciones.py
-```
