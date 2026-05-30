@@ -1,6 +1,6 @@
 # Ejercicio 6B — Herramientas de Minecraft
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -25,8 +25,3 @@ Se modela el sistema de herramientas de Minecraft usando una clase abstracta `He
 - `Pala.py` — excava tierra
 - `main.py` — prueba de herramientas y desgaste
 
-## Como correr
-
-```bash
-python main.py
-```
