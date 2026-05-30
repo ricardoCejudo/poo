@@ -30,14 +30,4 @@ Programacion Orientada a Objetos (POO) es una materia donde se aprende a estruct
 
 ---
 
-## Requisitos
 
-- Python 3.10 o superior
-- No requiere librerias externas
-
-## Como correr un ejercicio
-
-```bash
-cd Ejercicio3
-python main.py
-```
