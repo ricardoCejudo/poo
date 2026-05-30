@@ -1,6 +1,6 @@
 # Ejercicio 1 — Clase Estudiante
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -22,8 +22,3 @@ Este ejercicio es una introduccion a las clases en Python. Se crea la clase `Est
 
 - `Estudiante.py` — definicion de la clase y prueba de uso
 
-## Como correr
-
-```bash
-python Estudiante.py
-```
