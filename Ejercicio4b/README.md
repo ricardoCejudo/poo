@@ -1,6 +1,6 @@
 # Ejercicio 4B — Taberna de Aventureros
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -25,8 +25,4 @@ Se modela un sistema de personajes de fantasia usando herencia. La clase padre `
 - `Elfo.py` — lanza hechizos elficos
 - `main.py` — prueba de todos los personajes
 
-## Como correr
 
-```bash
-python main.py
-```
