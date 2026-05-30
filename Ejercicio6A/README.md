@@ -1,6 +1,6 @@
 # Ejercicio 6A — Mobs de Minecraft
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -25,9 +25,3 @@ Se modela el sistema de mobs de Minecraft usando una clase abstracta `Mob`. Cada
 - `Enderman.py` — mob neutral
 - `Zombie.py` — mob agresivo lento
 - `main.py` — simulador de mobs
-
-## Como correr
-
-```bash
-python main.py
-```
