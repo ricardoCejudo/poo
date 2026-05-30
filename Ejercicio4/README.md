@@ -1,6 +1,6 @@
 # Ejercicio 4 — Restaurante (Herencia con Platillo)
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -25,8 +25,3 @@ Se modela un menu de restaurante usando herencia. La clase padre `Platillo` tien
 - `Postre.py` — clase hija con atributo es_con_gluten
 - `main.py` — prueba de todas las clases
 
-## Como correr
-
-```bash
-python main.py
-```
