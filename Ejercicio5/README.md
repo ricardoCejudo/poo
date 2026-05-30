@@ -1,6 +1,6 @@
 # Ejercicio 5 — Abstraccion
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -21,8 +21,3 @@ Se introduce el concepto de clases abstractas usando el modulo `abc` de Python. 
 
 - `abstraccion.py` — clase abstracta Animal con subclases Perro y Gato
 
-## Como correr
-
-```bash
-python abstraccion.py
-```
