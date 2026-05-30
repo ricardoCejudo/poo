@@ -1,6 +1,6 @@
 # Ejercicio 2 — CuentaBancaria y MascotaVirtual
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -21,9 +21,3 @@ Dos clases independientes en un mismo ejercicio. `CuentaBancaria` permite deposi
 - `CuentaBancaria.py` — clase para manejar una cuenta bancaria
 - `MascotaVirtual.py` — clase para simular una mascota virtual
 
-## Como correr
-
-```bash
-python CuentaBancaria.py
-python MascotaVirtual.py
-```
