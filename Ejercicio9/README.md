@@ -1,6 +1,6 @@
 # Ejercicio 9 — Manejo de Archivos
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -23,12 +23,3 @@ Se aprende a trabajar con archivos de texto en Python. Se crea un archivo, se le
 - `addy.py` — abre el archivo en modo append y agrega 50000 caracteres
 - `filesize.py` — calcula y muestra el tamaño del archivo en KB y MB
 
-## Como correr
-
-Correr en este orden:
-
-```bash
-python Archivos.py
-python addy.py
-python filesize.py
-```
