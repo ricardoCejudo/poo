@@ -1,6 +1,6 @@
 # Ejercicio 8 — Jugador, Competidor y Observador
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -24,8 +24,4 @@ Se modela un sistema de jugadores para un torneo. La clase base `Jugador` tiene 
 - `Observador.py` — hereda de Jugador, cuenta partidas vistas
 - `main.py` — creacion de objetos y prueba de metodos
 
-## Como correr
 
-```bash
-python main.py
-```
