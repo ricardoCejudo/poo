@@ -1,6 +1,6 @@
 # Ejercicio 3 — Herencia con Animal
 
-**Alumno:** Ricardo Garcia Cejudo  
+**Alumno:** Ricardo García Cejudo  
 **Carrera:** Ingenieria en Sistemas Computacionales  
 **Semestre:** 2SS
 
@@ -24,8 +24,3 @@ Se crea una clase padre `Animal` con atributos nombre y edad, y un metodo `habla
 - `Gato.py` — clase hija
 - `main.py` — creacion de objetos y prueba
 
-## Como correr
-
-```bash
-python main.py
-```
